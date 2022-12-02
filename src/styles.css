@@ -7,3 +7,9 @@
 .heading {
   color: black;
 }
+button:hover,
+li:hover {
+  background-color: gray;
+  color: white;
+  cursor: pointer;
+}
